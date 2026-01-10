@@ -47,7 +47,7 @@ export const USERS: UserType[] = [
     CURRENT_USER,
     {
         id: 'u2',
-        name: 'Sarah Chen',
+        name: 'Laiba Ahmad',
         avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
         jobTitle: 'Frontend Dev',
     },
